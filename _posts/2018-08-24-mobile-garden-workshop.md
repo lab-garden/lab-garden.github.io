@@ -4,8 +4,8 @@ title:  "Mobile Garden 移動花園 工作坊"
 author: admin
 categories: [ events ]
 image: assets/images/IMG_5935.JPG
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Ｃ-LAB  是一個文化和空間的苗圃。  
