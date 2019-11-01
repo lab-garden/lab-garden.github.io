@@ -9,7 +9,7 @@ google_analytics: ''
 disqus: ''
 mailchimp-list: 'https://garden.us3.list-manage.com/subscribe/post?u=449535b81a59e45136bc42f06&amp;id=3a33837b49'
 instagram: 'lab.garden'
-facebook: 'Labgarden-826150707755309'
+facebook: 'labdotgarden'
 include: ["_pages"]
 permalink: /:title/
 
